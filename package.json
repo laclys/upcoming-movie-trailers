@@ -23,7 +23,8 @@
   "homepage": "https://github.com/laclys/upcoming-movie-trailers#readme",
   "dependencies": {
     "ejs": "^2.5.7",
-    "koa": "^2.5.0"
+    "koa": "^2.5.0",
+    "pug": "^2.0.1"
   },
   "devDependencies": {
     "standard": "^11.0.0"

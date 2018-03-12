@@ -17,7 +17,7 @@ module.exports = `
           <p>It is <%= me %></p>
         </div>
         <div class="col-md-4">
-          <p>静态HTML</p>
+          <p>ejs HTML</p>
         </div>
       </div>
     </div>
