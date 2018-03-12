@@ -1,0 +1,30 @@
+{
+  "name": "upcoming-movie-trailers",
+  "version": "1.0.0",
+  "description": "a node server project",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "standard": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laclys/upcoming-movie-trailers.git"
+  },
+  "keywords": [
+    "trailer"
+  ],
+  "author": "Lac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laclys/upcoming-movie-trailers/issues"
+  },
+  "homepage": "https://github.com/laclys/upcoming-movie-trailers#readme",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {
+    "standard": "^11.0.0"
+  }
+}
